@@ -1,0 +1,11 @@
+{
+  "hello": "Hello",
+  "createAccount": "Create Account",
+  "email": "Email",
+  "name": "Name",
+  "password": "Password",
+  "switchToSpanish": "Switch to Spanish",
+  "registerNow": "Register Now",
+  "validEmail": "Enter a valid email address",
+  "shortPassword": "Password must be at least 6 characters"
+}

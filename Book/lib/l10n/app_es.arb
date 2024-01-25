@@ -1,0 +1,11 @@
+{
+   "Hola hola",
+   "createAccount": "Crear cuenta",
+   "correo electrónico": "Correo electrónico",
+   "nombre nombre",
+   "contraseña": "Contraseña",
+   "switchToSpanish": "Cambiar a español",
+   "registerNow": "Regístrese ahora",
+   "validEmail": "Ingrese una dirección de correo electrónico válida",
+   "shortPassword": "La contraseña debe tener al menos 6 caracteres"
+}

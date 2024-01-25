@@ -1,0 +1,47 @@
+name: bookbuddy
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.5 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.2.2
+  intl: any
+  flutter_svg: ^2.0.9
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo.png"
+ 
+  flutter_lints: ^2.0.0
+flutter:
+  generate: true
+ 
+  uses-material-design: true
+
+  assets:
+  - assets/images/ClaraCallan.jpg
+  - assets/images/ClassicalMythology.jpg
+  - assets/images/Flu.jpg
+  - assets/images/Hitlerssecret.jpg
+  - assets/images/Janedoe.jpg
+  - assets/images/Nights.jpg
+  - assets/images/Pleadingguilty.jpg
+  - assets/images/TheMiddleStories.jpg
+  - assets/images/TheMummiesofUrumchi.jpg
+  - assets/images/Whatif.jpg
+  - assets/images/WhereYoullFindMe.jpg
+  - assets/images/bookicon.gif
+  - assets/images/logout.gif
